@@ -42,7 +42,7 @@ HikeConnect adopts a **freemium model** with a subscription tier that unlocks ad
 ## 🎨 UI/UX Mockups
 Here are some initial UI/UX designs created for HikeConnect to visualize the concept:
 
-- **Landing Page**: [Landing Page Mockup](#)  
+- **Landing Page**: [Landing Page Mockup]([#](https://rishiramesh.space/hikeconnect/))  
 - **Trail Details Page**: [Trail Details Mockup](#)  
 - **Community Feature Page**: [Community Feature Mockup](#)  
 
