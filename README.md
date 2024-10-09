@@ -1,4 +1,4 @@
-# HikeConnect - Product Management 
+# HikeConnect App
 [![Check out HikeConnect's Landing Page](https://github.com/user-attachments/assets/47dd751a-61e5-46c5-855d-640c00140082)](https://rishiramesh.space/hikeconnect/)
 
 
