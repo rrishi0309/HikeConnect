@@ -51,7 +51,7 @@ Here are some initial UI/UX designs created for HikeConnect to visualize the con
 - **Customer Needs Analysis**: [Customer Needs Analysis](https://docs.google.com/document/d/1pVzcl-L6P9N1Zq-pClp9cDJ9jd5dy8ZW/edit)
 
 ## 🤝 Connect
-If you're interested in discussing the concept further or have feedback, feel free to connect with me on [LinkedIn](#) or reach out via email!
+If you're interested in discussing the concept further or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rishi0309/) or reach out via email!
 
 ---
 
