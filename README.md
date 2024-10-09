@@ -47,7 +47,7 @@ Here are some initial UI/UX designs created for HikeConnect to visualize the con
 
 
 ## 📚 Research & Resources
-- **Survey Insights**: [User Survey Results]((https://drive.google.com/file/d/1fuUXRUgaKBXJQ12GPMhMFeSZuhhALb19/view))
+- **Survey Insights**: [User Survey Results](https://drive.google.com/file/d/1fuUXRUgaKBXJQ12GPMhMFeSZuhhALb19/view)
 - **Customer Needs Analysis**: [Customer Needs Analysis](https://docs.google.com/document/d/1pVzcl-L6P9N1Zq-pClp9cDJ9jd5dy8ZW/edit)
 
 ## 🤝 Connect
