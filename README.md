@@ -1,4 +1,4 @@
-# HikeConnect - Product Concept
+# HikeConnect - Product Management 
 ![image](https://github.com/user-attachments/assets/47dd751a-61e5-46c5-855d-640c00140082)
 
 ## 🚀 Project Overview
