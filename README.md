@@ -1,5 +1,5 @@
 # HikeConnect - Product Concept
-![image](https://github.com/user-attachments/assets/78eb7014-fa85-457f-b87a-e4d3f6d08cbc)
+![image](https://github.com/user-attachments/assets/47dd751a-61e5-46c5-855d-640c00140082)
 
 ## 🚀 Project Overview
 **HikeConnect** is a product concept created during my **Product Management course in Spring 2024**. It aims to unify trail navigation, safety features, and community building into a single, intuitive app for outdoor enthusiasts. The project involved a combination of **market research, user surveys, and UI/UX design** to outline a comprehensive product strategy.
