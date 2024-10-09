@@ -1,5 +1,6 @@
 # HikeConnect - Product Management 
-[![Check out HikeConnect's Landing Page]((https://github.com/user-attachments/assets/47dd751a-61e5-46c5-855d-640c00140082))](https://rishiramesh.space/hikeconnect/)
+[![Check out HikeConnect's Landing Page](https://github.com/user-attachments/assets/47dd751a-61e5-46c5-855d-640c00140082)](https://rishiramesh.space/hikeconnect/)
+
 
 ## 🚀 Project Overview
 **HikeConnect** is a product concept created during my **Product Management course in Spring 2024**. It aims to unify trail navigation, safety features, and community building into a single, intuitive app for outdoor enthusiasts. The project involved a combination of **market research, user surveys, and UI/UX design** to outline a comprehensive product strategy.
